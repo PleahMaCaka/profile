@@ -1,0 +1,12 @@
+root = true
+
+[*]
+indent_style = space
+indent_size = 4
+
+ij_typescript_align_imports = true
+ij_any_spaces_within_brackets = true
+
+
+[*{json,svelte,css,js}]
+indent_size = 2
